@@ -1,0 +1,8 @@
+{
+  "name": "nano ble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dbf8f2c7"
+}
